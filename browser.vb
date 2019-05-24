@@ -17,7 +17,7 @@ Public Class browser
 
     End Sub
     Private Sub RefreshToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles RefreshToolStripMenuItem.Click
-        'WebBrowser1.Refresh()
+        browse.Load("http://nhentai.net/g/" + Form1.out_text.Text)
     End Sub
 
     Private Sub ExitToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ExitToolStripMenuItem.Click
@@ -25,5 +25,11 @@ Public Class browser
     End Sub
 
     Private Sub Browser_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+    End Sub
+
+    Private Sub UnblockToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles UnblockToolStripMenuItem.Click
+        Panel1.Refresh()
+        'browse.Load("http://google.com")
+        browse.Load("https://nhent.ai/g/" + Form1.out_text.Text)
     End Sub
 End Class

@@ -26,12 +26,13 @@ Partial Class browser2
         Me.RefreshToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ExitToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Pane2 = New System.Windows.Forms.Panel()
+        Me.UnblockToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
         'MenuStrip1
         '
-        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.RefreshToolStripMenuItem, Me.ExitToolStripMenuItem})
+        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.RefreshToolStripMenuItem, Me.ExitToolStripMenuItem, Me.UnblockToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
         Me.MenuStrip1.Size = New System.Drawing.Size(800, 24)
@@ -58,6 +59,12 @@ Partial Class browser2
         Me.Pane2.Size = New System.Drawing.Size(800, 426)
         Me.Pane2.TabIndex = 1
         '
+        'UnblockToolStripMenuItem
+        '
+        Me.UnblockToolStripMenuItem.Name = "UnblockToolStripMenuItem"
+        Me.UnblockToolStripMenuItem.Size = New System.Drawing.Size(63, 20)
+        Me.UnblockToolStripMenuItem.Text = "Unblock"
+        '
         'browser2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -81,4 +88,5 @@ Partial Class browser2
     Friend WithEvents RefreshToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ExitToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents Pane2 As Panel
+    Friend WithEvents UnblockToolStripMenuItem As ToolStripMenuItem
 End Class
