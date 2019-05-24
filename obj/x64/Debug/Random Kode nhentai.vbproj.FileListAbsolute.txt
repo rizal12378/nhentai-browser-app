@@ -20,6 +20,3 @@ C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64
 C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Debug\Random Kode nhentai.vbproj.CopyComplete
 C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Debug\Random_Kode_nhentai.browser2.resources
 C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Debug\Random_Kode_nhentai.browser_for_typeText.resources
-C:\Users\rizal\Documents\Visual Studio 2019\Random Kode nhentai\obj\x64\Debug\Random Kode nhentai.exe
-C:\Users\rizal\Documents\Visual Studio 2019\Random Kode nhentai\obj\x64\Debug\Random Kode nhentai.xml
-C:\Users\rizal\Documents\Visual Studio 2019\Random Kode nhentai\obj\x64\Debug\Random Kode nhentai.pdb
