@@ -1,5 +1,5 @@
 # nhentai-browser-app
-Note: <sup>dikarenakan koneksi ngelag, jadi beberapa dependencies pada rusak semua, bakal kefix besok atau segera mungkin</sup> ok, fixed
+Note: ~~dikarenakan koneksi ngelag, jadi beberapa dependencies pada rusak semua, bakal kefix besok atau segera mungkin~~ ok, fixed
   # Requirement
     - Visual Studio 2019
     - .NET Framework 4.5.2 or later
