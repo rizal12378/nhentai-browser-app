@@ -1,0 +1,22 @@
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Debug\Random Kode nhentai.exe.config
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Debug\Random Kode nhentai.exe
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Debug\Random Kode nhentai.pdb
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Debug\Random Kode nhentai.xml
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Debug\Random Kode nhentai.vbprojAssemblyReference.cache
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Debug\Random_Kode_nhentai.Form1.resources
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Debug\Random_Kode_nhentai.Resources.resources
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Debug\Random Kode nhentai.vbproj.GenerateResource.cache
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Debug\Random Kode nhentai.vbproj.CoreCompileInputs.cache
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Debug\Random Kode nhentai.exe
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Debug\Random Kode nhentai.xml
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Debug\Random Kode nhentai.pdb
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Debug\Random_Kode_nhentai.browser.resources
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Debug\CefSharp.Core.dll
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Debug\CefSharp.dll
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Debug\CefSharp.WinForms.dll
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Debug\CefSharp.WinForms.xml
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Debug\CefSharp.xml
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Debug\CefSharp.Core.xml
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Debug\Random Kode nhentai.vbproj.CopyComplete
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Debug\Random_Kode_nhentai.browser2.resources
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Debug\Random_Kode_nhentai.browser_for_typeText.resources
