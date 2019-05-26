@@ -20,3 +20,13 @@ C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64
 C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Release\Random Kode nhentai.exe
 C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Release\Random Kode nhentai.xml
 C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Release\Random Kode nhentai.pdb
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Release\System.Buffers.dll
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Release\System.Memory.dll
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Release\System.Buffers.xml
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Release\System.Memory.xml
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Release\Random Kode nhentai.exe.manifest
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\bin\x64\Release\Random Kode nhentai.application
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Release\Random Kode nhentai.exe.manifest
+C:\Users\rizal\Documents\Visual Studio 2019\Projects\Random Kode nhentai\obj\x64\Release\Random Kode nhentai.application

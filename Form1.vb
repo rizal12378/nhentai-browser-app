@@ -1,4 +1,5 @@
-﻿
+﻿Imports CefSharp
+Imports CefSharp.WinForms
 Public Class Form1
 
     'buat angka acak dari 1 s/d 280000
@@ -14,31 +15,37 @@ Public Class Form1
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles read_btn.Click
-        'buka browser di form kedua, navigasi ke website langsung + kode ID tadi yg dirandom
-        browser.Show()
-        'browser.WebBrowser1.Navigate("http://nhentai.net/g/" + out_text.Text)
-        'ini biar buat javascript error nggak muncul, probably IE-based, soo i need chromium embedded browser
-        'pls halp
-        'browser.WebBrowser1.ScriptErrorsSuppressed = True
+        If out_text.Text = "" Then
+            MsgBox("Kode belum di-Generate")
+        Else
+            browser.Show()
+            browser.browse.Load("http://nhentai.net/g/" + out_text.Text)
+        End If
         openBrowser_btn.Enabled = True
+        pro_btn.Enabled = False
+        down_text.Enabled = False
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         out_text.Text = ""
-        openBrowser_btn.Enabled = False
+        'openBrowser_btn.Enabled = False
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles openBrowser_btn.Click
         'buka di browser sendiri
-        Process.Start("http://nhentai.net/g/" + out_text.Text)
+        If out_text.Text = "" Then
+            MsgBox("Kode Belum Di-Generate")
+        Else
+            Process.Start("http://nhentai.net/g/" + out_text.Text)
+        End If
+
     End Sub
 
     Private Sub Pro_btn_Click(sender As Object, e As EventArgs) Handles pro_btn.Click
-        'Process.Start("http://nhentai.net/g/" + down_text.Text)
         'kalo gamau ngerandom dan mau masukin kode sendiri, bisa langsung buka lewat sini
-        browser2.Show()
-        'browser.Panel1.Navigate("http://nhentai.net/g/" + down_text.Text)
-        'browser.WebBrowser1.ScriptErrorsSuppressed = True
+        browser.Show()
+        browser.browse.Load(down_text.Text)
+        browser.urlget.Text = "http://nhentai.net/g/" + down_text.Text
     End Sub
     Private Sub Quit_btn_Click(sender As Object, e As EventArgs) Handles quit_btn.Click
         Dispose()

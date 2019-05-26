@@ -22,6 +22,7 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         Me.out_text = New System.Windows.Forms.Label()
         Me.read_btn = New System.Windows.Forms.Button()
         Me.openBrowser_btn = New System.Windows.Forms.Button()
@@ -121,6 +122,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink
         Me.BackColor = System.Drawing.SystemColors.AppWorkspace
         Me.ClientSize = New System.Drawing.Size(450, 317)
         Me.Controls.Add(Me.rand_btn)
@@ -132,6 +134,9 @@ Partial Class Form1
         Me.Controls.Add(Me.openBrowser_btn)
         Me.Controls.Add(Me.read_btn)
         Me.Controls.Add(Me.out_text)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
         Me.Name = "Form1"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Random Kode nhentai"
